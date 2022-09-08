@@ -23,7 +23,7 @@ Here are a few things you can do that will increase the likelihood of your pull 
 
 Issues marked with [good first issue][good-first-issue] or [help wanted][help-wanted] are usually pretty self-contained and a good place to get started.
 
-If you see any issues that are assigned to a particular person or have the `work in progress` label, that means
+If you see any issues that are assigned to a particular person or have the `📍 Work in progress` label, that means
 someone is currently working on that issue this issue in the next week or two.
 
 Of course, feel free to create a new issue if you think something needs to be added or fixed.
